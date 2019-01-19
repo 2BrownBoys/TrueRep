@@ -15,6 +15,6 @@ public class AffilActivity extends AppCompatActivity {
         Intent intent =getIntent();
         String message = intent.getStringExtra("Affil_Chosen");
         TextView textview = findViewById(R.id.tvInfo);
-        textview.setText("Affiliation: " + message);
+        textview.setText("Party: " + message);
     }
 }

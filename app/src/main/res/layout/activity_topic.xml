@@ -20,7 +20,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ListView
-        android:id="@+id/listRep"
+        android:id="@+id/Replist"
         android:layout_width="395dp"
         android:layout_height="675dp"
         android:layout_marginStart="8dp"
