@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "336680723097",
+    "firebase_url": "https://truerep-3f98a.firebaseio.com",
+    "project_id": "truerep-3f98a",
+    "storage_bucket": "truerep-3f98a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336680723097:android:2889d4d8c9335bd0",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336680723097-o57q7713klnonfsnmfo3jgd7vqa991nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8HYHJEe1cZEOqXktfGsfImk9nXQpFcs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
